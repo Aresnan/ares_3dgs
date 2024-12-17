@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: point_cloud_1
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 1140711
+  m_BoundsMin: {x: -83.26534, y: -50.18297, z: -34.137608}
+  m_BoundsMax: {x: 79.288, y: 22.40616, z: 21.131235}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 3cba7d14f4cd6686d623a9b2cba4b8b9
+  m_PosFormat: 2
+  m_ScaleFormat: 2
+  m_SHFormat: 3
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: 495d146d312634246a1edc450b0a45ee, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 2b1a06125d4fcb045973523ac2c17ad2, type: 3}
+  m_OtherData: {fileID: 4900000, guid: a325d56732495404a80b4ff2aa8c1f5c, type: 3}
+  m_SHData: {fileID: 4900000, guid: 786ecc50b3e72654f9e3b10d13ddbd5c, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 2cd5fa281dfeed5458a2387eed5b8da4, type: 3}
+  m_Cameras:
+  - pos: {x: 0, y: 0, z: 1}
+    axisX: {x: 1, y: 0, z: 0}
+    axisY: {x: -0, y: 0.0000000437114, z: 1}
+    axisZ: {x: -0, y: -1, z: 0.0000000437114}
+    fov: 25
