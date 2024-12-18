@@ -234,7 +234,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &986420414
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -386,7 +386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c12d929a7f62c48adbe9ff45c9a33ff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Asset: {fileID: 11400000, guid: 7d16ad33139b2704b93ae6a2f223efde, type: 2}
+  m_Asset: {fileID: 11400000, guid: 0fa44896ba96a2b418e99810e556607d, type: 2}
   m_SplatScale: 1
   m_OpacityScale: 1.79
   m_SHOrder: 3

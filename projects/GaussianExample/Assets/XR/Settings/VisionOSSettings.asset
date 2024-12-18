@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VisionOSSettings
   m_EditorClassIdentifier: 
   m_AppMode: 1
-  m_HandsTrackingUsageDescription: 
+  m_HandsTrackingUsageDescription: Boom
   m_WorldSensingUsageDescription: Boom
   m_RuntimeSettings: {fileID: 11400000, guid: b016923867e5fe048a5a2eab1536b8b6, type: 2}
   m_UpperLimbVisibility: 0
@@ -22,5 +22,5 @@ MonoBehaviour:
   m_RealityKitImmersionStyle: 0
   m_MetalImmersiveOverlays: 0
   m_RealityKitImmersiveOverlays: 0
-  m_IL2CPPLargeExeWorkaround: 0
+  m_IL2CPPLargeExeWorkaround: 1
   m_UseACTool: 0
